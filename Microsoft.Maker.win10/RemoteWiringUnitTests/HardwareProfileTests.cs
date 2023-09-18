@@ -1,5 +1,6 @@
 ﻿using Microsoft.Maker.RemoteWiring;
-using Microsoft.VisualStudio.TestPlatform.UnitTestFramework;
+// using Microsoft.VisualStudio.TestPlatform.UnitTestFramework;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
 using System.Linq;
